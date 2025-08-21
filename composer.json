@@ -1,0 +1,15 @@
+{
+    "name": "a/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "A\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ahmed Ayman",
+            "email": "ahmed01210543616@gmail.com"
+        }
+    ],
+    "require": {}
+}
