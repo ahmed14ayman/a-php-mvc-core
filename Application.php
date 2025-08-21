@@ -1,15 +1,15 @@
 <?php
 
-namespace app\core;
+namespace ahmed14ayman\phpmvc;
 
-use app\core\View;
-use app\core\Router;
-use app\core\Request;
-use app\core\Session;
-use app\core\Response;
-use app\core\Controller;
-use app\core\db\DbModel;
-use app\core\db\Database;
+use ahmed14ayman\phpmvc\View;
+use ahmed14ayman\phpmvc\Router;
+use ahmed14ayman\phpmvc\Request;
+use ahmed14ayman\phpmvc\Session;
+use ahmed14ayman\phpmvc\Response;
+use ahmed14ayman\phpmvc\Controller;
+use ahmed14ayman\phpmvc\db\DbModel;
+use ahmed14ayman\phpmvc\db\Database;
 
 
 

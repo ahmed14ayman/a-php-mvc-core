@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace ahmed14ayman\phpmvc\form;
 
-use app\core\Model;
+use ahmed14ayman\phpmvc\Model;
 
 
 

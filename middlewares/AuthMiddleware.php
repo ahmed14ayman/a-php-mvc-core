@@ -1,8 +1,8 @@
 <?php
-namespace app\core\Middlewares;
+namespace ahmed14ayman\phpmvc\Middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use ahmed14ayman\phpmvc\Application;
+use ahmed14ayman\phpmvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware{
     public array $actions = [] ;

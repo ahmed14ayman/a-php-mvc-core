@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace ahmed14ayman\phpmvc;
  class View {
 
     public string $title = '';

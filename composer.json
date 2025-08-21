@@ -2,7 +2,7 @@
     "name": "ahmed14ayman/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "A\\PhpMvcCore\\": "src/"
+            "ahmed14ayman\\phpmvc\\": "."
         }
     },
     "authors": [
@@ -12,4 +12,6 @@
         }
     ],
     "require": {}
-}
+  
+    }
+

@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
+namespace ahmed14ayman\phpmvc;
 
-use app\core\Middlewares\BaseMiddleware;
+use ahmed14ayman\phpmvc\Middlewares\BaseMiddleware;
 
 class Controller{
 
@@ -12,7 +12,7 @@ class Controller{
     /**
      * Undocumented variable
      *
-     * @var \app\core\Middlewares\BaseMiddleware[]
+     * @var \ahmed14ayman\phpmvc\Middlewares\BaseMiddleware[]
      */
     protected array $middlewares = [];
 

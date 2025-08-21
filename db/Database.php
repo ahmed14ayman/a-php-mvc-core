@@ -1,8 +1,8 @@
 <?php
-namespace app\core\db;
+namespace ahmed14ayman\phpmvc\db;
 
 use \PDO;
-use app\core\Application;
+use ahmed14ayman\phpmvc\Application;
 
 class Database{
 
